@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins: wght@300; 400;500; 600; 700; 800;900& display=swap');
 html, body {
-  height: 100%;
+  height: 90%;
   width: 100%;
   font-family: 'Poppins', sans-serif;
   color: #1f242d;
-  background-color: #14bdc9c9;
+  background-color:rgb(31, 196, 196);
+  align-items: center;
 }
 
 .button{
